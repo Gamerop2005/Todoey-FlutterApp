@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return ChangeNotifierProvider(
       
           child: MaterialApp(
-        // debugShowCheckedModeBanner: false,
+       debugShowCheckedModeBanner: false,
         theme: ThemeData(
           primarySwatch: Colors.purple,
           scaffoldBackgroundColor: Colors.purple[600],
