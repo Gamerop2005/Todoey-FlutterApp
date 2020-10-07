@@ -5,6 +5,7 @@
 ![Icon](https://github.com/swaraj961/Todoey-FlutterApp/blob/master/android/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 - For adding Todo's or Task
 - Easy checklist
+- Awesome UI
 -longpress to delete the task
 -Provider for state management
 
